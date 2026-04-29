@@ -1,0 +1,13 @@
+services:
+  bot:
+    build:
+      context: .
+    env_file:
+      - .env
+    restart: unless-stopped
+    deploy:
+      resources:
+        limits:
+          memory: 200M
+        reservations:
+          memory: 50M

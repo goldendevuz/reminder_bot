@@ -1,0 +1,7 @@
+pydantic-core
+aiogram
+aiosqlite
+SQLAlchemy
+APScheduler
+python-dotenv
+pytz
