@@ -233,3 +233,5 @@ redis_data
 *.egg-info/
 *.egg
 *.dist-info/
+
+*.db
