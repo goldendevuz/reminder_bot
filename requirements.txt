@@ -1,7 +1,7 @@
 pydantic-core==2.47.0
-aiogram==3.28.2
+aiogram==3.30.0
 aiosqlite==0.22.1
-SQLAlchemy==2.0.50
-APScheduler==3.11.2
+SQLAlchemy==2.0.51
+APScheduler==3.11.3
 python-dotenv==1.2.2
 pytz==2026.2
